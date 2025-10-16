@@ -1,0 +1,36 @@
+h1{
+    color:red;
+}
+button{
+    color:blue;
+    background-color:lightcoral;
+}
+
+body{
+    background-color:white;
+}
+#box{
+   background-color:sandybrown;
+}
+.heading{
+    color:red;
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#lekha{
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+#Moga{
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    /* line gap */
+    line-height:30px;
+    text-transform: uppercase;
+
+}
